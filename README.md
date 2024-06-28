@@ -1,4 +1,4 @@
-# First-Come-First-Serve-FCFS-
+# FIFO-
 ##Description:
 This code implements the FIFO (First-In-First-Out) page replacement algorithm in C++. The FIFO algorithm is used in operating systems for memory management, specifically for managing the pages in a page frame when there are page faults.
 
